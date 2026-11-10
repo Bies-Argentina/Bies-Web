@@ -1,0 +1,1 @@
+delete from public.bies_briefs where email = 'test-rls-check@example.com' and name = 'Test RLS';
